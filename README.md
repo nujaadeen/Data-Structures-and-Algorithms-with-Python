@@ -31,14 +31,14 @@ Contents
 
 Here is a brief overview of the notebooks available in this repository:
 
-01_Binary_Search.ipynb: Explanation and implementation of the binary search algorithm.
-02_Binary_Search_Trees.ipynb: Introduction to binary search trees (BST) and their operations.
-03_Graphs.ipynb: Exploration of graph data structures and algorithms.
-04_Hash_Tables_and_Dictionaries.ipynb: Understanding hash tables and dictionaries in Python.
-05_Recursion.ipynb: Concepts and examples of recursion in programming.
-06_Dynamic_Programming.ipynb: Introduction to dynamic programming and its application in solving optimization problems efficiently.
-07_Sorting.ipynb: Overview of sorting algorithms, including popular ones like quicksort and mergesort.
-08_Divide_and_Conquer.ipynb: Explanation and examples of the divide and conquer algorithm paradigm.
+- 01_Binary_Search.ipynb: Explanation and implementation of the binary search algorithm.
+- 02_Binary_Search_Trees.ipynb: Introduction to binary search trees (BST) and their operations.
+- 03_Graphs.ipynb: Exploration of graph data structures and algorithms.
+- 04_Hash_Tables_and_Dictionaries.ipynb: Understanding hash tables and dictionaries in Python.
+- 05_Recursion.ipynb: Concepts and examples of recursion in programming.
+- 06_Dynamic_Programming.ipynb: Introduction to dynamic programming and its application in solving optimization problems efficiently.
+- 07_Sorting.ipynb: Overview of sorting algorithms, including popular ones like quicksort and mergesort.
+- 08_Divide_and_Conquer.ipynb: Explanation and examples of the divide and conquer algorithm paradigm.
 
 Contribution
 
