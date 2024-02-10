@@ -23,7 +23,7 @@ To get started, simply clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/your_username/data-structures-algorithms-python.git
-
+```
 
 You can then explore the notebooks using Jupyter Notebook or JupyterLab. Make sure you have Python and Jupyter installed on your system.
 
